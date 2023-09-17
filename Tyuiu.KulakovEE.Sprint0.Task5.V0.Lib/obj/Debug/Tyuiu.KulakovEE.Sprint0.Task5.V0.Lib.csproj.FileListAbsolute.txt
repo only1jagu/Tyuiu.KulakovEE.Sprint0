@@ -1,0 +1,6 @@
+C:\Users\Аболтус\source\repos\Tyuiu.KulakovEE.Sprint0\Tyuiu.KulakovEE.Sprint0.Task5.V0.Lib\bin\Debug\Tyuiu.KulakovEE.Sprint0.Task5.V0.Lib.dll
+C:\Users\Аболтус\source\repos\Tyuiu.KulakovEE.Sprint0\Tyuiu.KulakovEE.Sprint0.Task5.V0.Lib\bin\Debug\Tyuiu.KulakovEE.Sprint0.Task5.V0.Lib.pdb
+C:\Users\Аболтус\source\repos\Tyuiu.KulakovEE.Sprint0\Tyuiu.KulakovEE.Sprint0.Task5.V0.Lib\obj\Debug\Tyuiu.KulakovEE.Sprint0.Task5.V0.Lib.csproj.AssemblyReference.cache
+C:\Users\Аболтус\source\repos\Tyuiu.KulakovEE.Sprint0\Tyuiu.KulakovEE.Sprint0.Task5.V0.Lib\obj\Debug\Tyuiu.KulakovEE.Sprint0.Task5.V0.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Аболтус\source\repos\Tyuiu.KulakovEE.Sprint0\Tyuiu.KulakovEE.Sprint0.Task5.V0.Lib\obj\Debug\Tyuiu.KulakovEE.Sprint0.Task5.V0.Lib.dll
+C:\Users\Аболтус\source\repos\Tyuiu.KulakovEE.Sprint0\Tyuiu.KulakovEE.Sprint0.Task5.V0.Lib\obj\Debug\Tyuiu.KulakovEE.Sprint0.Task5.V0.Lib.pdb
